@@ -12,7 +12,7 @@ This repository is for OCS interns to work on a single respository in-order to u
 - Create a PR for you changes and they wil be merged by the end of the week. 
 
 
-# Dialy Status Branch
+# Daily Status Branch
 - This branch consists of the daily status monitoring excel file. 
 - Update this branch daily with your status (along with the google drive). 
 
