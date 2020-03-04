@@ -9,7 +9,7 @@ This repository is for OCS interns to work on a single respository in-order to u
 - Make sure to keep your work in your own folder. 
 - Don't push your changes directly into upstream master branch. Always create keep your work in a separate branch.
 - Naming convention for the branch would be "firstName-week-Year Week". For example santosh-week-10 (Current year week is 10 as of 04/03/2020)
-- Changes in the branch will be merged by the end of the week. 
+- Create a PR for you changes and they wil be merged by the end of the week. 
 
 
 # Dialy Status Branch
