@@ -3,7 +3,8 @@ package main
 
 import (
 	"fmt"
-	"ocs-interns/yug-gupta/golang-docker-application/localpackages" // local package with hello() and world() functions
+
+	"github.com/sp98/ocs-interns/yug-gupta/golang-docker-application/localpackages" // local package with hello() and world() functions
 )
 
 func main() {
