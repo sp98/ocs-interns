@@ -9,6 +9,6 @@ metadata:
 spec:
   containers:
     - name: nginx-image
-      image: nginx
+      image: nginx:1.17
 
 
