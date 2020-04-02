@@ -10,5 +10,3 @@ spec:
   containers:
     - name: nginx-image
       image: nginx:1.17
-
-
